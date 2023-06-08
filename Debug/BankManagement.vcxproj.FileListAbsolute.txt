@@ -1,0 +1,2 @@
+C:\Users\110612\source\repos\BankManagement\Debug\BankManagement.exe
+C:\Users\110612\source\repos\BankManagement\Debug\BankManagement.pdb

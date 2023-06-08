@@ -1,0 +1,9 @@
+﻿  bank management system.c
+C:\Users\110612\source\repos\BankManagement\bank management system.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\110612\source\repos\BankManagement\bank management system.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\110612\source\repos\BankManagement\bank management system.c(34,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\110612\source\repos\BankManagement\bank management system.c(58,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\110612\source\repos\BankManagement\bank management system.c(52,9): warning C4101: 'choice': unreferenced local variable
+C:\Users\110612\source\repos\BankManagement\bank management system.c(392,40): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\110612\source\repos\BankManagement\bank management system.c(443,40): warning C4305: '=': truncation from 'double' to 'float'
+  BankManagement.vcxproj -> C:\Users\110612\source\repos\BankManagement\Debug\BankManagement.exe
